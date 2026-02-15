@@ -78,7 +78,8 @@ SDKs and developer infrastructure to build and deploy decentralized applications
 
 ## 🔗 Official Links
 
-- Website: https://satuchain.com  
+- Website: https://satuchain.com
+- Documentation: https://docs.satuchain.com
 - Telegram: https://t.me/satuchain  
 - Announcements: https://t.me/satuchain_announcement  
 - X: https://x.com/SatuChain  
