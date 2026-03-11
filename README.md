@@ -14,8 +14,8 @@
   <b>Build. Connect. Scale.</b>
 </p>
 
-<p style="margin: 10px 0 0; max-width: 820px; font-size: 14.5px; line-height: 1.55; opacity: .85;">
-  A product-first blockchain ecosystem powering <b>SocialFi</b>, <b>DeFi</b>, <b>Wallet</b>, and <b>Web3 developer infrastructure</b>.
+<p style="margin: 10px 0 0; max-width: 860px; font-size: 14.5px; line-height: 1.6; opacity: .88;">
+  A product-first blockchain ecosystem built for <b>Testnet</b>, <b>Multichain utilities</b>, <b>DeFi infrastructure</b>, <b>NFT</b>, <b>Launchpad</b>, and <b>Web3 applications</b>.
 </p>
 
 <br/>
@@ -44,7 +44,6 @@
   </a>
 </p>
 
-<!-- thinner divider + less gap -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F6BFF,100:7C4DFF&height=2&section=header&reversal=false" width="640" />
 
 </div>
@@ -53,34 +52,68 @@
 
 ## 🌍 About SatuChain
 
-SatuChain is a next-generation blockchain ecosystem built for **real products**, **clean UX**, and **developer-ready tooling**—designed to support a wide range of applications and services at scale.
+**SatuChain** is a next-generation blockchain ecosystem designed for real utility, scalable infrastructure, and product-ready Web3 development.  
+Our mission is to build an integrated ecosystem that connects users, builders, communities, and on-chain products in one growing network.
 
-✅ **Status:** Active development  
-🟪 Some modules are marked **SOON**
+✅ **Status:** Active Development  
+🟣 **Focus:** Testnet, Multichain Expansion, and Ecosystem Utilities  
+🟪 Some products are currently marked as **Coming Soon**
 
 ---
 
-## 🧩 Ecosystem Modules
+## 🧩 SatuChain Ecosystem
 
-### 🟣 SocialFi (In Progress)
-A blockchain-native social platform where identity, content, and value flow are built-in—designed for creators and communities.
+### ✅ Live Products
+- **Testnet Explorer**  
+  Explore blocks, transactions, addresses, and on-chain activity on the SatuChain testnet.  
+  🔗 https://testnet.satuchain.com/
 
-### 🟪 DeFi *(SOON)*
-Composable finance primitives and liquidity tooling—built for trading, staking, and on-chain markets.
+- **Testnet Faucet**  
+  Access test tokens for development, testing, and ecosystem onboarding.  
+  🔗 https://faucet.satuchain.com/
 
-### 🔺 SatuChain Wallet *(SOON)*
-A multichain wallet for secure storage, smooth onboarding, and everyday transactions.
+- **SatuDex**  
+  Decentralized exchange for trading and liquidity within the SatuChain ecosystem.  
+  🔗 https://satudex.com/
 
-### 💠 Web3 Platform *(SOON)*
-SDKs and developer infrastructure to build and deploy decentralized applications within the SatuChain ecosystem.
+### 🚀 Coming Soon
+- **SatuDex Radar**  
+  Advanced market tracking, token discovery, analytics, and monitoring tools.
+
+- **SatuDex Wallet Multichain**  
+  A multichain wallet for seamless asset management, transfers, and ecosystem access.
+
+- **Satu NFT Marketplace**  
+  NFT creation, trading, collection management, and marketplace infrastructure.
+
+- **SatuPad Launchpad**  
+  Token launch and fundraising platform for new blockchain projects and communities.
+
+- **SatuFun**  
+  Experimental and community-driven ecosystem product under development.
+
+- **Social Media Web3**  
+  A decentralized social platform designed for creators, communities, and digital engagement.
+
+- **Satu Academy**  
+  Educational platform focused on blockchain literacy, ecosystem onboarding, and Web3 learning.
+
+---
+
+## 🔗 Ecosystem Overview
+
+For more details about the SatuChain ecosystem, modules, and documentation:
+
+📘 https://satuchain.gitbook.io/satuchain-docs/ecosystem/
 
 ---
 
 ## 🔗 Official Links
 
-- Website: https://satuchain.com
-- Documentation: https://docs.satuchain.com
-- Telegram: https://t.me/satuchain  
-- Announcements: https://t.me/satuchain_announcement  
-- X: https://x.com/SatuChain  
-- Support: support@satuchain.com
+- **Website**: https://satuchain.com  
+- **Documentation / Ecosystem**: https://satuchain.gitbook.io/satuchain-docs/ecosystem/  
+- **Telegram Community**: https://t.me/satuchain  
+- **Telegram Announcements**: https://t.me/satuchain_announcement  
+- **X / Twitter**: https://x.com/SatuChain  
+- **GitHub**: https://github.com/satuchain  
+- **Support**: support@satuchain.com
