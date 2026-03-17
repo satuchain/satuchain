@@ -27,6 +27,9 @@
   <a href="https://t.me/satuchain">
     <img src="https://img.shields.io/badge/TELEGRAM%20COMMUNITY-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
+  <a href="https://satudex.com">
+    <img src="https://img.shields.io/badge/BUY%20STU%20ON%20BNB-F3BA2F?style=for-the-badge&logo=binance&logoColor=black" />
+  </a>
 </p>
 
 <p style="margin: 10px 0 0;">
@@ -76,10 +79,11 @@ Our mission is to build an integrated ecosystem that connects users, builders, c
   Decentralized exchange for trading and liquidity within the SatuChain ecosystem.  
   🔗 https://satudex.com/
 
-### 🚀 Coming Soon
 - **SatuDex Radar**  
-  Advanced market tracking, token discovery, analytics, and monitoring tools.
+  Advanced market tracking, token discovery, analytics, and monitoring tools.  
+  🔗 https://radar.satudex.com/
 
+### 🚀 Coming Soon
 - **SatuDex Wallet Multichain**  
   A multichain wallet for seamless asset management, transfers, and ecosystem access.
 
@@ -100,6 +104,17 @@ Our mission is to build an integrated ecosystem that connects users, builders, c
 
 ---
 
+## 💠 Support the Project
+
+If you would like to support the project by purchasing **STU on BNB Chain**, please use the official route via **SatuDex**.
+
+- **Buy STU**: https://satudex.com/
+- **BNB Chain Contract**: `0x1583c088b93de3019927abdf0fba35b3946f8e94`
+
+> Please verify the contract address through SatuChain official channels before making any purchase.
+
+---
+
 ## 🔗 Ecosystem Overview
 
 For more details about the SatuChain ecosystem, modules, and documentation:
@@ -112,6 +127,8 @@ For more details about the SatuChain ecosystem, modules, and documentation:
 
 - **Website**: https://satuchain.com  
 - **Documentation / Ecosystem**: https://satuchain.gitbook.io/satuchain-docs/ecosystem/  
+- **SatuDex**: https://satudex.com/
+- **SatuDex Radar**: https://radar.satudex.com/
 - **Telegram Community**: https://t.me/satuchain  
 - **Telegram Announcements**: https://t.me/satuchain_announcement  
 - **X / Twitter**: https://x.com/SatuChain  
