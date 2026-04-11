@@ -15,7 +15,7 @@
 </p>
 
 <p style="margin: 10px 0 0; max-width: 860px; font-size: 14.5px; line-height: 1.6; opacity: .88;">
-  A product-first blockchain ecosystem built for <b>Testnet</b>, <b>Multichain utilities</b>, <b>DeFi infrastructure</b>, <b>NFT</b>, <b>Launchpad</b>, and <b>Web3 applications</b>.
+  A product-first blockchain ecosystem built for <b>Mainnet</b>, <b>Testnet</b>, <b>Multichain utilities</b>, <b>DeFi infrastructure</b>, <b>NFT</b>, <b>Launchpad</b>, and <b>Web3 applications</b>.
 </p>
 
 <br/>
@@ -55,11 +55,11 @@
 
 ## 🌍 About SatuChain
 
-**SatuChain** is a next-generation blockchain ecosystem designed for real utility, scalable infrastructure, and product-ready Web3 development.  
-Our mission is to build an integrated ecosystem that connects users, builders, communities, and on-chain products in one growing network.
+**SatuChain** is a next-generation blockchain ecosystem built for real utility, scalable infrastructure, and product-ready Web3 development.  
+Our mission is to create an integrated network that connects users, builders, communities, and on-chain products into one growing ecosystem.
 
 ✅ **Status:** Active Development  
-🟣 **Focus:** Testnet, Multichain Expansion, and Ecosystem Utilities  
+🟣 **Focus:** Mainnet, Testnet, Multichain Expansion, and Ecosystem Utilities  
 🟪 Some products are currently marked as **Coming Soon**
 
 ---
@@ -67,7 +67,12 @@ Our mission is to build an integrated ecosystem that connects users, builders, c
 ## 🧩 SatuChain Ecosystem
 
 ### ✅ Live Products
-- **Testnet Explorer**  
+
+- **SatuChain Mainnet Explorer (STUScan)**  
+  Explore blocks, transactions, wallet addresses, validators, tokens, and on-chain activity on the SatuChain mainnet.  
+  🔗 https://stuscan.com/
+
+- **SatuChain Testnet Explorer**  
   Explore blocks, transactions, addresses, and on-chain activity on the SatuChain testnet.  
   🔗 https://testnet.satuchain.com/
 
@@ -76,14 +81,14 @@ Our mission is to build an integrated ecosystem that connects users, builders, c
   🔗 https://faucet.satuchain.com/
 
 - **SatuDex**  
-  Decentralized exchange for trading and liquidity within the SatuChain ecosystem.  
+  Decentralized exchange for trading, swapping, and liquidity access within the SatuChain ecosystem.  
   🔗 https://satudex.com/
 
 - **SatuDex Radar**  
-  Advanced market tracking, token discovery, analytics, and monitoring tools.  
+  Advanced market tracking, token discovery, analytics, and monitoring tools for the ecosystem.  
   🔗 https://radar.satudex.com/
 
-- **SatuchainWallet**  
+- **SatuChain Wallet**  
   A multichain wallet for seamless asset management, transfers, and ecosystem access.  
   🔗 https://wallet.satuchain.com/
 
@@ -91,7 +96,10 @@ Our mission is to build an integrated ecosystem that connects users, builders, c
   Educational platform focused on blockchain literacy, ecosystem onboarding, and Web3 learning.  
   🔗 https://satuchain.academy/
 
+---
+
 ### 🚀 Coming Soon
+
 - **Satu NFT Marketplace**  
   NFT creation, trading, collection management, and marketplace infrastructure.
 
@@ -110,8 +118,8 @@ Our mission is to build an integrated ecosystem that connects users, builders, c
 
 If you would like to support the project by purchasing **STU on BNB Chain**, please use the official route via **SatuDex**.
 
-- **Buy STU**: https://satudex.com/
-- **BNB Chain Contract**: `0x1583c088b93de3019927abdf0fba35b3946f8e94`
+- **Buy STU:** https://satudex.com/
+- **BNB Chain Contract:** `0x1583c088b93de3019927abdf0fba35b3946f8e94`
 
 > Please verify the contract address through SatuChain official channels before making any purchase.
 
@@ -127,14 +135,25 @@ For more details about the SatuChain ecosystem, modules, and documentation:
 
 ## 🔗 Official Links
 
-- **Website**: https://satuchain.com  
-- **Documentation / Ecosystem**: https://satuchain.gitbook.io/satuchain-docs/ecosystem/  
-- **SatuDex**: https://satudex.com/  
-- **SatuDex Radar**: https://radar.satudex.com/  
-- **SatuchainWallet**: https://wallet.satuchain.com/  
-- **Satu Academy**: https://satuchain.academy/  
-- **Telegram Community**: https://t.me/satuchain  
-- **Telegram Announcements**: https://t.me/satuchain_announcement  
-- **X / Twitter**: https://x.com/SatuChain  
-- **GitHub**: https://github.com/satuchain  
-- **Support**: support@satuchain.com
+- **Website:** https://satuchain.com  
+- **Documentation / Ecosystem:** https://satuchain.gitbook.io/satuchain-docs/ecosystem/  
+- **Mainnet Explorer / STUScan:** https://stuscan.com/  
+- **Testnet Explorer:** https://testnet.satuchain.com/  
+- **Testnet Faucet:** https://faucet.satuchain.com/  
+- **SatuDex:** https://satudex.com/  
+- **SatuDex Radar:** https://radar.satudex.com/  
+- **SatuChain Wallet:** https://wallet.satuchain.com/  
+- **Satu Academy:** https://satuchain.academy/  
+- **Telegram Community:** https://t.me/satuchain  
+- **Telegram Announcements:** https://t.me/satuchain_announcement  
+- **X / Twitter:** https://x.com/SatuChain  
+- **GitHub:** https://github.com/satuchain  
+- **Support:** support@satuchain.com
+
+---
+
+## 🚀 Vision
+
+SatuChain is built to support a wider blockchain future through practical tools, ecosystem products, accessible infrastructure, and real community growth.
+
+We are not only building a blockchain network, but also an ecosystem where developers can build, users can participate, and communities can grow together.
