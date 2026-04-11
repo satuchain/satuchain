@@ -83,10 +83,15 @@ Our mission is to build an integrated ecosystem that connects users, builders, c
   Advanced market tracking, token discovery, analytics, and monitoring tools.  
   🔗 https://radar.satudex.com/
 
-### 🚀 Coming Soon
-- **SatuDex Wallet Multichain**  
-  A multichain wallet for seamless asset management, transfers, and ecosystem access.
+- **SatuchainWallet**  
+  A multichain wallet for seamless asset management, transfers, and ecosystem access.  
+  🔗 https://wallet.satuchain.com/
 
+- **Satu Academy**  
+  Educational platform focused on blockchain literacy, ecosystem onboarding, and Web3 learning.  
+  🔗 https://satuchain.academy/
+
+### 🚀 Coming Soon
 - **Satu NFT Marketplace**  
   NFT creation, trading, collection management, and marketplace infrastructure.
 
@@ -98,9 +103,6 @@ Our mission is to build an integrated ecosystem that connects users, builders, c
 
 - **Social Media Web3**  
   A decentralized social platform designed for creators, communities, and digital engagement.
-
-- **Satu Academy**  
-  Educational platform focused on blockchain literacy, ecosystem onboarding, and Web3 learning.
 
 ---
 
@@ -127,8 +129,10 @@ For more details about the SatuChain ecosystem, modules, and documentation:
 
 - **Website**: https://satuchain.com  
 - **Documentation / Ecosystem**: https://satuchain.gitbook.io/satuchain-docs/ecosystem/  
-- **SatuDex**: https://satudex.com/
-- **SatuDex Radar**: https://radar.satudex.com/
+- **SatuDex**: https://satudex.com/  
+- **SatuDex Radar**: https://radar.satudex.com/  
+- **SatuchainWallet**: https://wallet.satuchain.com/  
+- **Satu Academy**: https://satuchain.academy/  
 - **Telegram Community**: https://t.me/satuchain  
 - **Telegram Announcements**: https://t.me/satuchain_announcement  
 - **X / Twitter**: https://x.com/SatuChain  
